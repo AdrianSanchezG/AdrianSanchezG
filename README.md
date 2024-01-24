@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Adrian Sanchez Guevara 👋</h1>
+</div>
 
-<!--
-**AdrianSanchezG/AdrianSanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Habilidades
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖱 Programas de Office
+- 👨‍💻 Visual Estudio 2019. (C#)
+- 👨‍💻 Base de datos (SQL).
+- 📗 Conocimiento en .NET, HTML, JS, CSS, Windows Service
+- 📌 Desarrollo de Software Basico.
+- ✔ Resolución de  problemas.
+- 💡 Pensamiento creativo.
